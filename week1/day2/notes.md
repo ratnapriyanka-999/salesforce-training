@@ -119,12 +119,14 @@ This helped me understand how Salesforce can be used to build real-world busines
 Today’s learning helped me understand how Salesforce manages the complete sales process starting from Leads to Opportunities. I also learned how Salesforce platform features like Apps, Objects, Tabs, Path, and Kanban View help companies organize and manage their workflows efficiently.
 ## My Thoughts
 The concepts are becoming more practical now. I’m slowly understanding how Salesforce is used in real business environments for customer management, teamwork, sales tracking, and workflow management.
-## Screenshots
-### Salesforce Screenshots
-![Salesforce Screenshot](screenshots/salesforce.png)
-### Opportunity Team
-![Opportunity Team](screenshots/opportunity-team.png)
-### Path and Kanban
-![Path and Kanban](screenshots/path-kanban.png)
-### Quiz Completion
-![Quiz Completion](screenshots/quiz.png)
+ ## Screenshots
+### Leads and Opportunities
+![Leads and Opportunities](screenshots/leads&opportunities.png)
+### Leads and Opportunity Assessment
+![Assessment](screenshots/leads%20&opportunity%20assessment.png)
+### Opportunity Team Quiz
+![Opportunity Team](screenshots/quiz-opportunity%20team.png)
+### Path and Kanban Quiz
+![Path and Kanban](screenshots/quiz-path%20kanban.png)
+### Salesforce Values
+![Salesforce Values](screenshots/salesforce-values.png)
