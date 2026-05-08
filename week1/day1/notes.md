@@ -66,4 +66,15 @@ It helps companies track:
 ## My Understanding
 Today’s learning gave me a clear understanding of how businesses manage customers and sales processes using Salesforce. I also understood how CRM helps companies stay organized and improve customer relationships efficiently.
 ## Screenshots
-week1/day1/screenshots
+### Salesforce CRM
+![Salesforce CRM](screenshots/salesforce%20CRM.png)
+### Accounts
+![Accounts](screenshots/accounts.png)
+### Contacts
+![Contacts](screenshots/contacts.png)
+### Accounts and Contacts
+![Accounts and Contacts](screenshots/accounts%20&%20contacts.png)
+### Quiz Screenshot 1
+![Quiz 1](screenshots/accounts&contacts%20quiz-1.png)
+### Quiz Screenshot 2
+![Quiz 2](screenshots/accounts&contacts%20quiz-2.png)
