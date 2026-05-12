@@ -90,5 +90,22 @@ Automation saves time, improves accuracy, and reduces manual effort.
 It helps maintain clean data and prevents future problems in the system.
 ## 6. Why is Salesforce called a metadata-driven platform?
 Because Salesforce allows customization of apps, objects, fields, and processes without requiring heavy coding.
+# Screenshots
+## Custom Objects
+![Custom Objects](screenshots/custom objects.png)
+## Data Modeling
+![Data Modeling](screenshots/data modeling.png)
+## Formula Fields
+![Formula Fields](screenshots/formula fields.png)
+## Formulas and Validations
+![Formulas and Validations](screenshots/formulas and validations.png)
+## Object Relations
+![Object Relations](screenshots/object relations.png)
+## Roll Up Summary Fields
+![Roll Up Summary Fields](screenshots/roll up summary fields.png)
+## Schema Builder
+![Schema Builder](screenshots/shema builder.png)
+## Validation Rules
+![Validation Rules](screenshots/validation rules.png)
 # My Thoughts
 Today’s topic felt more practical and interesting because I could understand how real business systems are designed internally. I’m slowly starting to understand how Salesforce handles large amounts of business data in an organized and efficient way.
