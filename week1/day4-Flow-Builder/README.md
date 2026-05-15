@@ -82,13 +82,13 @@ No-code automation helps users create workflows without advanced programming kno
 Automation should be avoided when human judgment or creativity is required.
 ## 6. How does automation improve consistency and productivity?
 Automation follows the same process every time, reducing mistakes and increasing speed.
-# Screenshots
+ # Screenshots
 ## Flow Builder Start
 ![Flow Builder Start](screenshots/flow-builder-start.png)
 ## Final Flow Diagram
-![Final Flow](screenshots/final-flow-diagram.png)
+![Final Flow Diagram](screenshots/final-flow-diagram.png)
 ## Flow Debug Test
-![Debug Test](screenshots/flow-debug-test.png)
+![Flow Debug Test](screenshots/flow-debug-test.png)
 ## Flow Activated
 ![Flow Activated](screenshots/flow-activated.png)
 # Conclusion
@@ -97,4 +97,4 @@ I learned:
 - How workflows are created
 - How conditions work
 - How automation improves enterprise systems
-- How Salesforce simplifies business process management
+- How Salesforce simplifies business process management.
